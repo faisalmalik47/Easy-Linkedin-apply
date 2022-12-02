@@ -1,0 +1,48 @@
+username: malikf951@gmail.com
+password: Philic@007
+phone_number: 8802808392
+
+positions:
+- AWS Devops 
+- aws Devpos Engineer
+- aws Cloud
+#- sre
+#- Site reliablility # Another position you want to search for
+- # A third position you want to search for
+
+locations:
+#- Remote
+#- India
+#- Delhi
+#- Noida
+#- Gurugram
+- us
+- canada
+- germany
+- uk
+- eu
+- Netherlands
+- turkey
+- singapore
+- qatar
+- dubai
+- kuwait
+
+
+- # A second location you want to search in 
+
+# --------- Optional Parameters -------
+# uploads:
+# Resume: /home/faisal/Downloads/Naukri_FaisalMalik[3y_0m].pdf
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+#blackListTitles:
+#- # Add job titles you want to ignore
