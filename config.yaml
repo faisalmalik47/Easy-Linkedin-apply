@@ -1,6 +1,6 @@
-username: malikf951@gmail.com
-password: Philic@007
-phone_number: 8802808392
+username: "linkedin_email"
+password: "linkedin_password"
+phone_number: "mob. no"
 
 positions:
 - AWS Devops 
@@ -8,7 +8,8 @@ positions:
 - aws Cloud
 #- sre
 #- Site reliablility # Another position you want to search for
-- # A third position you want to search for
+#- A third position you want to search for
+# Add any profile usin a "-" sign and comment the one you don't want to
 
 locations:
 #- Remote
@@ -33,7 +34,7 @@ locations:
 
 # --------- Optional Parameters -------
 # uploads:
-# Resume: /home/faisal/Downloads/Naukri_FaisalMalik[3y_0m].pdf
+# Resume: "pasth to resume if not already uploaded on linkedin"
 #  Cover Letter: # PATH TO cover letter
 #  Photo: # PATH TO photo
 
